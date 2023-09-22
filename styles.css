@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 *{
- 	border:1px solid black; 
+/*  	border:1px solid black;  */
 }
 .container
 {
@@ -29,7 +29,7 @@
 	height:100%;
 }
 #para-content{
-	margin-top:-15px;
+	margin-top:-25px;
 	text-align:center;
 	font-size:25px;
 	font-weight:500;
